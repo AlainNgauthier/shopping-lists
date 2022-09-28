@@ -1,6 +1,6 @@
 ## Implementação de um compilador completo
 ### Trabalho 6 da disciplina Construção de Compiladores - Ufscar
-#### inspirado no trabalho "Lista de Compras: linguagem Compra"
+#### Inspirado no trabalho "Lista de Compras: linguagem Compra"
 
 A linguagem Shopping é um modelo de lista de compras com os seguintes items: bebidas, mercearia, açougue, padaria, embalagens, limpeza e frios. 
 Cada item por sua vez contém uma descrição e um valor. Além disso pode-se adicionar o total da compra ao final das listas.

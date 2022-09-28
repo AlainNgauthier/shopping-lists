@@ -37,7 +37,7 @@ ERRO: .;
 
 /* Regras sintáticas */
 
-lista_compras: 'compras' lista_bebidas lista_mercearia lista_açougue lista_padaria lista_embalagens lista_frio lista_limpeza total_compra <EOF>;
+lista_compras: 'compras' lista_bebidas lista_mercearia lista_acougue lista_padaria lista_embalagens lista_frio lista_limpeza total_compra <EOF>;
 lista_bebidas: 'bebidas' item+;
 lista_mercearia: 'mercearia' item+;
 lista_acougue: 'açougue' item+;
